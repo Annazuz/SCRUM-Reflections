@@ -1,0 +1,2 @@
+Wymagania funkcjonalne określają funkcjonalność tworzonego oprogramowania, natomiast niefunkcjonalne określają pożądane cechy tworzonego systemu.
+Wymagania niefunkcjonalne mają bardziej znaczący wpływ na wybór architektury dla tworzonego systemu niż wymagania funkcjonalne.
